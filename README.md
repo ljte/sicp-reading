@@ -1,3 +1,3 @@
 # sicp-reading
 
-Paused at 1.1.4 Compound Procedures
+Paused at 1.1.7 Example: Square Roots by Newton's Method
